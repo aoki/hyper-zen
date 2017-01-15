@@ -1,0 +1,9 @@
+{
+  "name": "hyper-zen",
+  "version": "0.1.0",
+  "description": "Hyper theme using Japan Colors",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/ringohub/hyper-zen.git",
+  "author": "Yoshiki Aoki <yoshiki_aoki@dwango.co.jp>",
+  "license": "MIT"
+}
